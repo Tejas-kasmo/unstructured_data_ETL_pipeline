@@ -28,15 +28,8 @@ This pipeline:
 
 ## **Project Structure**
 
-.
-├── main.py # Main ETL pipeline controller
-├── extract.py # Extracts data from MongoDB
-├── transformation.py # Converts and cleans data
-├── load.py # Loads data into SQL Server
-├── update_meta_data.py # Logs ETL events to CSV
-├── config.config # SQL Server credentials (not included here)
-└── data/
-└── meta_data.csv # Metadata log file (must exist prior to run)
+![image](https://github.com/user-attachments/assets/71446029-1b66-4ccc-aa9f-c012b1faec24)
+![image](https://github.com/user-attachments/assets/71446029-1b66-4ccc-aa9f-c012b1faec24)
 
 
 ---
