@@ -56,10 +56,4 @@ This pipeline:
 
 ## **Create a config.config file with the following content**
 
-[ssms]
-
-DRIVER=ODBC Driver 17 for SQL Server
-SERVER=YOUR_SERVER_NAME
-DATABASE=YOUR_DATABASE_NAME
-UID=YOUR_USERNAME
-PWD=YOUR_PASSWORD
+![image](https://github.com/user-attachments/assets/6c68f14f-5a25-4181-9584-1fde69d27d03)
