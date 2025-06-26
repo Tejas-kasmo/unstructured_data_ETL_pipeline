@@ -29,7 +29,6 @@ This pipeline:
 ## **Project Structure**
 
 ![image](https://github.com/user-attachments/assets/71446029-1b66-4ccc-aa9f-c012b1faec24)
-![image](https://github.com/user-attachments/assets/71446029-1b66-4ccc-aa9f-c012b1faec24)
 
 
 ---
