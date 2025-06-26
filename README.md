@@ -52,7 +52,7 @@ This pipeline:
 1. **Install Python Packages:**
 
    ```bash
-   pip install pandas sqlalchemy pymongo pyodbc
+   pip install -r requirements.txt
 
 ## **Create a config.config file with the following content**
 
